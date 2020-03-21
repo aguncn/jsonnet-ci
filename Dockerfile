@@ -1,1 +1,1 @@
-FROM quay.io/coreos/jsonnet-ci
+FROM quay.io/coreos/jsonnet-ci:latest
